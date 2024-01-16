@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hello this is to check 
-=======
-this first file i'm checking 
->>>>>>> parent of 51da819 (Reverting "miting 3 files")
