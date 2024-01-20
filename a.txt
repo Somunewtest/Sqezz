@@ -1,8 +1,7 @@
 "upadted" hello.txt
 updated in test env
-<<<<<<< HEAD
 helllo 
-
-=======
+iupdating in checkout env to verify the things.
+>>>>>>> c4907cf (updating a.txt file in)
 iupdating in checkout env to verify the things.
 >>>>>>> c4907cf (updating a.txt file in)
