@@ -2,6 +2,7 @@
 updated in test env
 helllo 
 iupdating in checkout env to verify the things.
->>>>>>> c4907cf (updating a.txt file in)
+c4907cf (updating a.txt file in)
 iupdating in checkout env to verify the things.
->>>>>>> c4907cf (updating a.txt file in)
+c4907cf (updating a.txt file in)
+iupdating in checkout env to verify the things.
